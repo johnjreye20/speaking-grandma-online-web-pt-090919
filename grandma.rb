@@ -13,7 +13,6 @@ speak_to_grandma = "I LOVE YOU GRANDMA!"
   elsif speak_to_grandma == "WHAT DID YOU EAT TODAY?"
     puts "NO, NOT SINCE 1938!"
 
-
   else speak_to_grandma == "WHAT?"
     puts "NO, NOT SINCE 1938!"
 end
